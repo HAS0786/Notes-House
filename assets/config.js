@@ -1,9 +1,4 @@
-/* ============================================================
-   NOTES HOUSE SHOWCASE — EDIT THIS FILE
-   ------------------------------------------------------------
-   Put your real links / APK filename here before deployment.
-   Do not edit index.html just to change these values.
-   ============================================================ */
+
 
 const SITE_CONFIG = {
   apkUrl: "assets/Notes-House.apk", // Put your APK in assets/ with this filename.
